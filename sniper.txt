@@ -1,1 +1,23 @@
 http://snipersim.org/download/e1bab4d7197a6209/git/sniper.git
+
+Ubuntu Sniper Installation
+
+1. Install: g++ libboost-dev libc6-dev-i386 lib32z1-dev libsqlite3-dev git libbz2-dev m4 xsltproc libx11-dev libxext-dev libxt-dev libxmu-dev libxi-dev gfortran
+
+2. Clone: http://snipersim.org/download/e1bab4d7197a6209/git/sniper.git
+
+3. Download the latest Pin kit from the Intel Pin downloads page
+
+	Extract Pin into sniper/pin_kit (do not extract it to pin, create a new folder called pin_kit!!!!)	
+
+4. Build sniper
+
+5. go to test/fft
+
+6. Run
+
+7. After this (do not leave the current folder, install gnuplot only on first use)
+
+install: gnuplot
+
+../../tools/cpistack.py
